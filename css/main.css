@@ -93,7 +93,13 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+.playback-button {
+    padding: 5px;
+}
 
+.playback {
+    background:#B3B3B3;
+}
 
 
 
